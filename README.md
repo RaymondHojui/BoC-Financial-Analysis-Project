@@ -1,6 +1,11 @@
 # BoC-Financial-Analysis-Project
 
-**What is the final output of this project? (This is the “purpose”)**<br/>
+**Description:**
+
+In this project I will collect and clean USD/CAD exchange-rate data to build a dataset that tracks daily percent changes and flags when the Canadian dollar weakens. I will then create 2–3 charts to visualize the USD/CAD trend over time and the distribution of daily up/down movements. Finally, I will build an interpretable model to identify which variables best explain CAD weakening days and summarize the results with a straightforward impact/weight ranking.
+
+---
+**What is the final output of this project?**<br/>
 
 Final deliverables:
 
